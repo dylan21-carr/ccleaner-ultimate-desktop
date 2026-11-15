@@ -1,0 +1,3 @@
+# CCleaner Ultimate
+
+Utility scaffolding.
